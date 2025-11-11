@@ -8,7 +8,7 @@ It includes the training process for learning weights and a greedy player that u
 ## IMPORTANT FILES
 
 ### `GA_create.py`  (GA Create)
-Run this file to find out best weights
+#### Run this file to find out best weights
 ---
 
 ### `PlayTetrisWithGa.csv`  (GA Weights)
