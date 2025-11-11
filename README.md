@@ -19,9 +19,7 @@ Runs the Genetic Algorithm to evolve a 4-weight vector for evaluating Tetris pos
   3. Holes  
   4. Bumpiness  
 - Fitness metric: Average points per move,  
-  \[
-  F = \frac{S}{N_{\text{max}}}
-  \]
+total score / N-MAX 
 - Saves per-generation logs to `ga_weights.csv`  
 - Saves the best genome to `best_ga_weights.csv`
 
